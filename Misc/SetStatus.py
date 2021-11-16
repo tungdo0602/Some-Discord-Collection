@@ -1,5 +1,4 @@
-import requests
-import os
+import requests, os
 
 token = ""
 status = "" # "dnd" = do not disturb, "invisible" = offline/invisible status, "idle" = idle status

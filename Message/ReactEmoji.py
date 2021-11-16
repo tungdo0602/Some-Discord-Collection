@@ -1,5 +1,4 @@
-import requests
-import os
+import requests, os
 
 token = ""
 emoji_name = ""
