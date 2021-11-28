@@ -1,7 +1,4 @@
-import requests
-import time
-import os
-import random
+import requests, time, os, random
 
 #You will get something's going on
 

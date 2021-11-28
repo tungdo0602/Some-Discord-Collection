@@ -1,6 +1,4 @@
-import requests
-import time
-import os
+import requests, time, os
 
 token = ""
 username = "" # username must not have #tag

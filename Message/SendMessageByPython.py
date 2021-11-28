@@ -1,6 +1,5 @@
 # -*- coding:utf-8 -*-
-import requests
-import os
+import requests, os
 
 def clear():
 	os.system('cls')
